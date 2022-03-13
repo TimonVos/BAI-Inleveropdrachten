@@ -1,6 +1,7 @@
 ﻿using BAI___InleverOpdrachten___1;
 
 
+
 /* 
 Console.WriteLine("****OPGAVE 1****");
 List<int> filteredList = Opgave1.FilterList(new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 1, 2 });
@@ -14,6 +15,7 @@ Console.Write("\n");
 Console.WriteLine("****OPGAVE 2****");
 
 
+Opgave2.Opdr2bStackFromQueue(Opgave2.Opdr2aQueue50());
 
 Console.Write("\n");
 
