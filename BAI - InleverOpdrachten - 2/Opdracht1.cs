@@ -10,30 +10,40 @@ namespace BAI___InleverOpdrachten___2
     {
         public static bool Vooruit(uint b)
         {
-            // *** IMPLEMENTATION HERE *** //
-            return false;
+            return Convert.ToBoolean(b & (1 << 7));
         }
         public static uint Vermogen(uint b)
         {
-            // *** IMPLEMENTATION HERE *** //
-            return 0;
+            switch ((b & (0b11 << 5)) >> 5)
+            {
+                case 0b00:
+                    return 0;
+                    break;
+                case 0b01:
+                    return 33;
+                    break;
+                case 0b10:
+                    return 67;
+                    break;
+                case 0b11:
+                    return 100;
+                    break;
+                default:
+                    return 101;
+                    break;
+            }
         }
         public static bool Wagon(uint b)
         {
-            // *** IMPLEMENTATION HERE *** //
-            return false;
+            return Convert.ToBoolean(b & (1 << 4));
         }
         public static bool Licht(uint b)
         {
-            // *** IMPLEMENTATION HERE *** //
-            return false;
+            return Convert.ToBoolean(b & (1 << 3));
         }
         public static uint ID(uint b)
         {
-            // *** IMPLEMENTATION HERE *** //
-            return 0;
+            return b & (0b111 << 0);
         }
-
-        
     }
 }
