@@ -1,16 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BAI___InleverOpdrachten___1
+﻿namespace BAI___InleverOpdrachten___1
 {
     public static class Opgave2
     {
-
-      
-            public static Queue<int> Opdr2aQueue50()
+        public static Queue<int> Opdr2aQueue50()
         {
             int x = 50;
             Queue<int> q = new Queue<int>();
@@ -46,15 +38,14 @@ namespace BAI___InleverOpdrachten___1
 
             // nettere code: 
 
-            while(q.Count > 0)
+            while (q.Count > 0)
             {
-                int i = q.Peek();
+                int i = q.Dequeue();
 
                 if (i % 4 == 0)
                 {
                     stack.Push(i);
                 }
-                q.Dequeue();
             }
 
             // Controle of alles wat in de stack zit deelbaar is door 4: 

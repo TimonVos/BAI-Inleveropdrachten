@@ -1,0 +1,16 @@
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\bin\Debug\net5.0\BAI - InleverOpdrachten - 2.exe
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\bin\Debug\net5.0\BAI - InleverOpdrachten - 2.deps.json
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\bin\Debug\net5.0\BAI - InleverOpdrachten - 2.runtimeconfig.json
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\bin\Debug\net5.0\BAI - InleverOpdrachten - 2.runtimeconfig.dev.json
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\bin\Debug\net5.0\BAI - InleverOpdrachten - 2.dll
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\bin\Debug\net5.0\BAI - InleverOpdrachten - 2.pdb
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.csproj.AssemblyReference.cache
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.AssemblyInfoInputs.cache
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.AssemblyInfo.cs
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.csproj.CoreCompileInputs.cache
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.dll
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\refint\BAI - InleverOpdrachten - 2.dll
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.pdb
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.genruntimeconfig.cache
+C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\ref\BAI - InleverOpdrachten - 2.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YvT+a9yCk3Oc+3kOdM+UdK6LxqBqtlQ5pZUiKuMGQkuspruKM7aLMhjvj/3UrxpMFJFA9t7i8RyksWgS/C9E6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - Aftekenopdracht 2\\BAI - Aftekenopdracht2\\BAI - Aftekenopdracht2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

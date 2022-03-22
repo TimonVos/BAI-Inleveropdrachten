@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ukIahBSeBGGe6q/+TgnwEfQyoSDemrAyZ+L+MxYuxgvlhQAnXhXvY+Ix34hrq1VzMtk+DfosK5Xu9TszIVfYIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 2\\BAI - InleverOpdrachten - 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
