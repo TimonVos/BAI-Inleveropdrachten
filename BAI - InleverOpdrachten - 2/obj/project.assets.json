@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\timon\\.nuget\\packages\\": {}
+    "C:\\Users\\calvi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 2\\BAI - InleverOpdrachten - 2.csproj",
+      "projectUniqueName": "C:\\Users\\calvi\\source\\repos\\BAI-Inleveropdrachten\\BAI - InleverOpdrachten - 2\\BAI - InleverOpdrachten - 2.csproj",
       "projectName": "BAI - InleverOpdrachten - 2",
-      "projectPath": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 2\\BAI - InleverOpdrachten - 2.csproj",
-      "packagesPath": "C:\\Users\\timon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 2\\obj\\",
+      "projectPath": "C:\\Users\\calvi\\source\\repos\\BAI-Inleveropdrachten\\BAI - InleverOpdrachten - 2\\BAI - InleverOpdrachten - 2.csproj",
+      "packagesPath": "C:\\Users\\calvi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\calvi\\source\\repos\\BAI-Inleveropdrachten\\BAI - InleverOpdrachten - 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\timon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\calvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,12 +55,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.15, 5.0.15]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

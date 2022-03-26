@@ -14,3 +14,19 @@ C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon
 C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.pdb
 C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.genruntimeconfig.cache
 C:\Users\timon\RiderProjects\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\ref\BAI - InleverOpdrachten - 2.dll
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\bin\Debug\net5.0\BAI - InleverOpdrachten - 2.exe
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\bin\Debug\net5.0\BAI - InleverOpdrachten - 2.deps.json
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\bin\Debug\net5.0\BAI - InleverOpdrachten - 2.runtimeconfig.json
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\bin\Debug\net5.0\BAI - InleverOpdrachten - 2.runtimeconfig.dev.json
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\bin\Debug\net5.0\BAI - InleverOpdrachten - 2.dll
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\bin\Debug\net5.0\BAI - InleverOpdrachten - 2.pdb
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.csproj.AssemblyReference.cache
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.AssemblyInfoInputs.cache
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.AssemblyInfo.cs
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.csproj.CoreCompileInputs.cache
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.dll
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\refint\BAI - InleverOpdrachten - 2.dll
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.pdb
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\BAI - InleverOpdrachten - 2.genruntimeconfig.cache
+C:\Users\calvi\source\repos\BAI-Inleveropdrachten\BAI - InleverOpdrachten - 2\obj\Debug\net5.0\ref\BAI - InleverOpdrachten - 2.dll
