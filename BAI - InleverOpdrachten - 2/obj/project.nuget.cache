@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cpR1Gul0Atubi3OigAyzXygQIBH0W/kP/0r+5AYCuaC7KUZvgZFLKKSDitz0TrnFNkfbct+HLHiF2rd8OiRazw==",
+  "dgSpecHash": "ukIahBSeBGGe6q/+TgnwEfQyoSDemrAyZ+L+MxYuxgvlhQAnXhXvY+Ix34hrq1VzMtk+DfosK5Xu9TszIVfYIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\calvi\\Source\\Repos\\BAI-Inleveropdrachten\\BAI - InleverOpdrachten - 2\\BAI - InleverOpdrachten - 2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 2\\BAI - InleverOpdrachten - 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

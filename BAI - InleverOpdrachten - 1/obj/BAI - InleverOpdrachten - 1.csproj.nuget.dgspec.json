@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\calvi\\Source\\Repos\\BAI-Inleveropdrachten\\BAI - InleverOpdrachten - 1\\BAI - InleverOpdrachten - 1.csproj": {}
+    "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 1\\BAI - InleverOpdrachten - 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\calvi\\Source\\Repos\\BAI-Inleveropdrachten\\BAI - InleverOpdrachten - 1\\BAI - InleverOpdrachten - 1.csproj": {
+    "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 1\\BAI - InleverOpdrachten - 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\calvi\\Source\\Repos\\BAI-Inleveropdrachten\\BAI - InleverOpdrachten - 1\\BAI - InleverOpdrachten - 1.csproj",
+        "projectUniqueName": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 1\\BAI - InleverOpdrachten - 1.csproj",
         "projectName": "BAI - InleverOpdrachten - 1",
-        "projectPath": "C:\\Users\\calvi\\Source\\Repos\\BAI-Inleveropdrachten\\BAI - InleverOpdrachten - 1\\BAI - InleverOpdrachten - 1.csproj",
-        "packagesPath": "C:\\Users\\calvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\calvi\\Source\\Repos\\BAI-Inleveropdrachten\\BAI - InleverOpdrachten - 1\\obj\\",
+        "projectPath": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 1\\BAI - InleverOpdrachten - 1.csproj",
+        "packagesPath": "C:\\Users\\timon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\calvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\timon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

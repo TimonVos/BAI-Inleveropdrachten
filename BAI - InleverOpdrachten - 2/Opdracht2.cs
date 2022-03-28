@@ -21,12 +21,11 @@ namespace BAI___InleverOpdrachten___2
             // *** IMPLEMENTATION HERE *** //
             foreach (var item in inputStroom)
             {
-                if (Opdracht1.Licht(item))
+                if (!Opdracht1.Licht(item))
                 {
-                    inputStroom.Remove(item);
+                    set.Add(item);
                 }
             }
-            set = inputStroom.ToHashSet();
             return set;
         }
         public static HashSet<uint> MetWagon(List<uint> inputStroom)
@@ -35,12 +34,11 @@ namespace BAI___InleverOpdrachten___2
             // *** IMPLEMENTATION HERE *** //
             foreach (var item in inputStroom)
             {
-                if (!Opdracht1.Wagon(item))
+                if (Opdracht1.Wagon(item))
                 {
-                    inputStroom.Remove(item);
+                    set.Add(item);
                 }
             }
-            set = inputStroom.ToHashSet();
             return set;
         }
         public static HashSet<uint> SelecteerID(List<uint> inputStroom, uint lower, uint upper)
@@ -49,16 +47,11 @@ namespace BAI___InleverOpdrachten___2
             // *** IMPLEMENTATION HERE *** //
             foreach (var item in inputStroom)
             {
-                if (Opdracht1.ID(item) > lower && Opdracht1.ID(item) < upper)
+                if (Opdracht1.ID(item) >= lower && Opdracht1.ID(item) <= upper)
                 {
-                    
-                }
-                else
-                {
-                    inputStroom.Remove(item);
+                    set.Add(item);
                 }
             }
-            set = inputStroom.ToHashSet();
             return set;
         }
     }

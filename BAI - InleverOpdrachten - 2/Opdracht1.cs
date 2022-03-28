@@ -18,19 +18,14 @@ namespace BAI___InleverOpdrachten___2
             {
                 case 0b00:
                     return 0;
-                    break;
                 case 0b01:
                     return 33;
-                    break;
                 case 0b10:
                     return 67;
-                    break;
                 case 0b11:
                     return 100;
-                    break;
                 default:
                     return 101;
-                    break;
             }
         }
         public static bool Wagon(uint b)
