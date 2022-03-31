@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 1\\BAI - InleverOpdrachten - 1.csproj",
-      "projectName": "BAI - InleverOpdrachten - 1",
-      "projectPath": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 1\\BAI - InleverOpdrachten - 1.csproj",
+      "projectUniqueName": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 1\\BAI - InleverOpdrachten - 1 - Git versie.csproj",
+      "projectName": "BAI - InleverOpdrachten - 1 - Git versie",
+      "projectPath": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 1\\BAI - InleverOpdrachten - 1 - Git versie.csproj",
       "packagesPath": "C:\\Users\\timon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\timon\\RiderProjects\\BAI - InleverOpdrachten - Calvin van Laaren - Timon Vos\\BAI - InleverOpdrachten - 1\\obj\\",
       "projectStyle": "PackageReference",
